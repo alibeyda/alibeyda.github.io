@@ -1,0 +1,39 @@
+nav {
+  grid-area: nav;
+  margin: 0;
+  background-color: RGB(231,150,199);
+  top: 0;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-family:"Limelight";
+  color: white;
+  font-size: 18pt;
+  padding: 10px;
+}
+
+nav ul li a:hover{
+  color: black;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body{
+  background-image: url("Imgages/school.jpg");
+  margin: 0;
+}
