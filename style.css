@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  background-color: black;
 }
 
 #backimage {
@@ -46,6 +47,7 @@ img{
 
 h1{
   text-align: center;
+  background-color: black;
 }
 
 footer{
@@ -68,3 +70,7 @@ footer{
   justify-content: center;
   background-color: black;
 }
+
+/* #black{
+  background-color: black;
+} */
