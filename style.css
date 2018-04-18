@@ -34,11 +34,21 @@ nav ul li a:hover{
 }
 
 img{
-  width: 16.35%;
-  height: 16.35%;
+  /* width: 16.35%;
+  height: 16.35%; */
   margin: 0;
+  max-width: 100%;
+  height: auto;
 }
 
 h1{
   text-align: center;
+}
+
+.container{
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 200px);
+  grid-gap: 20px;
+  justify-content: center;
 }
