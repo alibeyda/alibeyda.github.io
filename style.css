@@ -45,10 +45,16 @@ h1{
   text-align: center;
 }
 
+footer{
+  background-color: black;
+  color: white;
+}
+
 .container{
   max-width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, 200px);
-  grid-gap: 20px;
+  grid-gap: 10px;
   justify-content: center;
+  background-color: black;
 }
