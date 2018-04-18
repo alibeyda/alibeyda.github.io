@@ -32,32 +32,17 @@ a:hover {
 
 .column {
     float: left;
+    justify-content: center;
 }
 
-.left {
-  background-color: rgb(111,159,248);
-  width: 10%;
-  height: 100vh;
-  margin: 1px;
-  padding: 0;
-}
 
 .middle {
-  width: 38%;
+  width: 45%;
   margin: 10px;
   padding: 0;
 }
 .right {
-  width: 38%;
+  width: 45%;
   margin: 10px;
-  padding: 0;
-}
-
-.rightright {
-  float: right;
-  background-color: rgb(111,159,248);
-  width: 10%;
-  height: 100vh;
-  margin: 1px;
   padding: 0;
 }
