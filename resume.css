@@ -12,7 +12,7 @@ h3 {
 
 h4 {
   color: white;
-  margin: 0;
+  /* margin: 0; */
 }
 
 body {
@@ -30,19 +30,33 @@ a:hover {
   color: rgb(111,159,248);
 }
 
-.column {
+.wrapper {
     float: left;
-    justify-content: center;
 }
 
-
-.middle {
+.one {
   width: 45%;
-  margin: 10px;
+  margin: 5px;
   padding: 0;
 }
-.right {
+.two {
   width: 45%;
-  margin: 10px;
+  margin: 5px;
   padding: 0;
+}
+
+#miami{
+  color: red;
+}
+
+#ab{
+  color:orange;
+}
+
+#hhs{
+  color: yellow;
+}
+
+#lax{
+  color: green;
 }
