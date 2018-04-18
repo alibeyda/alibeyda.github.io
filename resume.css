@@ -7,18 +7,19 @@ h2{
 
 h3 {
   color: rgb(111,159,248);
-  margin: 0;
+  margin: -5px;
 }
 
 h4 {
   color: white;
-  /* margin: 0; */
+  margin: 6px;
 }
 
 body {
   width: 1395px;
   margin: 0 auto;
   color: white;
+  font-size: 16px;
 }
 
 a {
@@ -59,4 +60,16 @@ a:hover {
 
 #lax{
   color: green;
+}
+
+#pref{
+  color: blue;
+}
+
+#social{
+  color: indigo;
+}
+
+#me{
+  color: violet;
 }
