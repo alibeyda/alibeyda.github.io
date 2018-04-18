@@ -1,34 +1,21 @@
-h1 {
-  color: rgb(111,159,248);
-  background-color: black;
-  text-align: center;
-  font-family: "Roboto Slab";
-  font-size: 70px;
-  margin: 0;
-  height: 100px;
-}
 
 h2{
   color: white;
-  font-family: "Roboto Slab";
   text-decoration: underline;
   margin: 5px;
 }
 
 h3 {
   color: rgb(111,159,248);
-  font-family: "Roboto Slab";
   margin: 0;
 }
 
 h4 {
   color: white;
-  font-family: "Roboto Slab";
   margin: 0;
 }
 
 body {
-  font-family: 'Roboto Slab', sans-serif;
   width: 1395px;
   margin: 0 auto;
   color: white;
@@ -37,7 +24,6 @@ body {
 a {
   text-decoration: none;
   color: white;
-  font-style: italic;
 }
 
 a:hover {
