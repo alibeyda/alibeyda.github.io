@@ -16,7 +16,7 @@ h4 {
 }
 
 body {
-  width: 1395px;
+  /* width: 1395px; */
   margin: 0 auto;
   color: white;
   font-size: 17.5px;
@@ -30,6 +30,9 @@ a {
 a:hover {
   color: rgb(111,159,248);
 }
+ /* header{
+   margin:0;
+ } */
 
 .wrapper {
     float: left;
@@ -39,6 +42,7 @@ a:hover {
   width: 50%;
   margin: 5px;
   padding: 0;
+  margin-left: 50px;
 }
 .two {
   width: 45%;
