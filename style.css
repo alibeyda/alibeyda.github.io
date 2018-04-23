@@ -82,6 +82,16 @@ h1{
   justify-content: center;
   background-color: black;
 }
+
+.pictures{
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 450px);
+  grid-gap: 10px;
+  justify-content: center;
+  background-color: black;
+}
+
 nav{
   height: 100%;
   width: 100%;
