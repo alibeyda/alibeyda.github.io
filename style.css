@@ -99,7 +99,7 @@ h2{
 }
 
 .wrapper {
-  grid-template-columns: repeat(4, 24%);
+  grid-template-columns: repeat(auto-fit, 350px);
   display: grid;
   grid-gap: 10px;
   width: 100%;
