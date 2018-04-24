@@ -1,0 +1,11 @@
+@import "style.css";
+
+.wrapper{
+  grid-template-columns: repeat(2, 45%);
+  display: grid;
+  grid-gap: 10px;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  margin: 0;
+}
