@@ -117,6 +117,25 @@ h2{
   text-decoration: none;
 }
 
+#friend{
+  height: 75%;
+  width: 100%;
+}
+#logo{
+  height: 95%;
+  width: 95%;
+  margin-top: -8px;
+}
+
+#head{
+  height: 85%;
+  width: 75%;
+  margin-left: 50px;
+}
+
+#logo3{
+  margin-top: 30px;
+}
 nav{
   height: 100%;
   width: 100%;
